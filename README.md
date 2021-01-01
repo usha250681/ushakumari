@@ -16,8 +16,7 @@
 Hi, I'm Usha Kumari, a passionate self-taught frontEnd web developer from India.
 
 - 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking for job
 
 **Languages and Tools:**  
 
